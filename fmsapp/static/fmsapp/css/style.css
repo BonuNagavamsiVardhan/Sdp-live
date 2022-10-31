@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "Lexend Deca";
+    src: url("../fonts/LexendDeca-Regular.ttf");
+    }
+
+* {
+    font-family: 'Lexend Deca';
+}
+
+.maincontainer{
+    background-image: url('../images/fishy.jpg');
+    background-size:cover;
+    background-position: center;
+    background-repeat:no-repeat;
+    height:100%;
+    visibility:initial;
+    width:100%;
+    
+}
+
+h1{
+    font-weight: bolder;
+}
+
+.bgreg{
+background-image: url('../images/fishy.jpg');
+    background-size:cover;
+    background-position: center;
+    background-repeat:no-repeat;
+    height:100%;
+    visibility:initial;
+    width:100%;
+}
+
